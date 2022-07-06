@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swolf-dev.github.io/static/css/main.468f59b3.css",
+    "main.js": "/swolf-dev.github.io/static/js/main.29b826a0.js",
+    "static/js/787.9e146b5a.chunk.js": "/swolf-dev.github.io/static/js/787.9e146b5a.chunk.js",
+    "index.html": "/swolf-dev.github.io/index.html",
+    "main.468f59b3.css.map": "/swolf-dev.github.io/static/css/main.468f59b3.css.map",
+    "main.29b826a0.js.map": "/swolf-dev.github.io/static/js/main.29b826a0.js.map",
+    "787.9e146b5a.chunk.js.map": "/swolf-dev.github.io/static/js/787.9e146b5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468f59b3.css",
+    "static/js/main.29b826a0.js"
+  ]
+}
